@@ -105,14 +105,6 @@
                     </TypographyP>
                   </div>
                 </li>
-                <li data-aos="fade-left" data-aos-delay="100" class="flex gap-6">
-                  <div class="bg-primary heading min-w-10 w-10 h-10 rounded-full grid place-content-center text-white text-xl">05</div>
-                  <div>
-                    <h4 class="heading text-2xl uppercase">Withdraw Your Winnings</h4>
-                    <TypographyP>After a successful bet, withdraw your earnings quickly and securely via the platform's available payment options.
-                    </TypographyP>
-                  </div>
-                </li>
               </ul>
             </div>
           </div>
